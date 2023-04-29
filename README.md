@@ -41,13 +41,13 @@ Start the server
 ```
 
 
-## Demo
+## Live Demo
 
 https://64472b9a3144e74df7f0964a--boisterous-platypus-f0a632.netlify.app/
 
 ## Feedback
 
-If you have any feedback, please reach out to us at lukekevin39@gmail.com
+If you have any feedback, please reach out to me at lukekevin39@gmail.com
 
 
 ## Authors
